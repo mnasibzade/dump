@@ -1,17 +1,17 @@
 {
-    "response": [
-      {
-        "datetime": "20250216",
-        "filename": "EklerKernel-ginkgo-20250216-2100.zip",
-        "filename-ksu": "EklerKernel-ginkgo-KSU-20250216-2107.zip",
-        "type": "Dynamic",
-        "size": "17.6 MB",
-        "size-ksu": "17.6 MB",
-        "url": "https://sourceforge.net/projects/shawkteam/files/ginkgo/EklerKernel/EklerKernel-ginkgo-20250216-2100.zip/download",
-        "url-ksu": "https://sourceforge.net/projects/shawkteam/files/ginkgo/EklerKernel/EklerKernel-ginkgo-KSU-20250216-2107.zip/download",
-        "managerlink": "https://github.com/rifsxd/KernelSU-Next/releases/download/v1.0.4/KernelSU_Next_v1.0.4_12335-release.apk",
-        "variant": "KSU, NON-KSU",
-        "version": "4.14.359"
-      }
-    ]
-  }
+  "response": [
+    {
+      "datetime": "20250226",
+      "filename": "EklerKernel-ginkgo-20250226-2147.zip",
+      "filename-ksu": "EklerKernel-ginkgo-KSU-20250226-2121.zip",
+      "type": "Dynamic",
+      "size": "17.6 MB",
+      "size-ksu": "17.6 MB",
+      "url": "https://sourceforge.net/projects/shawkteam/files/ginkgo/EklerKernel/EklerKernel-ginkgo-20250226-2147.zip/download",
+      "url-ksu": "https://sourceforge.net/projects/shawkteam/files/ginkgo/EklerKernel/EklerKernel-ginkgo-KSU-20250226-2121.zip/download",
+      "managerlink": "https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v1.0.5/KernelSU_Next_v1.0.5_12430-release.apk",
+      "variant": "KSU, NON-KSU",
+      "version": "4.14.359"
+    }
+  ]
+}
